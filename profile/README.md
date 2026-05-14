@@ -103,8 +103,8 @@
 
 <div align="center">
 
-**若这里的工具对你有用，欢迎在常用仓库点一颗 Star**
+**若这里的仓库对你有用，欢迎在常用仓库点一颗 Star**
 
-<sub>Entropy-Increase-Team · Made with care for players and builders</sub>
+<sub>LEMONADEX · Made with care for players and builders</sub>
 
 </div>
